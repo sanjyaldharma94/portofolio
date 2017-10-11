@@ -1,0 +1,94 @@
+/* universal slector*/
+*{
+	font-family: 'Noto Serif', serif;
+padding: 0;
+margin:0;
+outline: none;
+}
+body{
+	background-image:url(..//img/bg1.jpg);
+	background-size: 100%;
+	/*background-repeat: no-repeat;
+	background-position: center;*/
+}
+h1 {font-size:48px;
+	font-family:algerian,Calibiri,arial;
+	text-align:center;
+	color: green;
+	font-weight: 900;
+	}
+h2{
+	color:#840e72;
+	font-size: 36px;
+	border:2px solid black;
+	border-radius: 8px;
+}
+h3{
+	font-family:courier;
+	font-size:2em;
+	color:black;
+}
+#myb{
+	width:60px;
+	height:40px;
+	font-size:1em;
+}
+#myb1{
+	width:60px;
+	height:40px;
+	font-size:1em;
+}
+h2.player1{
+	position:absolute;
+	top:43%;
+	left:10%;
+}
+h2.player2{
+	position:absolute;
+	top:43%;
+	right:10%;
+}
+.hd{
+	position:absolute;
+	bottom:5%;
+	left:50%;
+}
+.turn{
+position:absolute;
+bottom:0px;
+left:40%;
+}
+button{
+width:90px;
+height:90px;
+background-color:off white;
+font-size:4em;
+font-weight:bolder;
+}
+
+div{
+	width:300px;
+	height:300px;
+	border:5px solid grey;
+}
+div.pos{
+	position:absolute;
+	top:30%;
+	left:35%;
+}
+.p{
+	position:absolute;
+	left:55%;
+	top:20%;}
+.p1{position:absolute;
+	left:43%;
+	top:20%;
+}
+@media(max-width:1055px){
+	h2{
+		border: none;
+		width: 15%;
+		background-repeat: no-repeat;
+		overflow: hidden;
+	}
+}
