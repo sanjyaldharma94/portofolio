@@ -695,6 +695,9 @@ a.alignright {
 .section-bg-light .content-box-light {
   background-color: #d4dfe4;
 }
+#resume {
+  text-align: center;
+}
 
 #intro {
   text-align: center;
