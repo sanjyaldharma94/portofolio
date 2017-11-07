@@ -198,6 +198,9 @@ sup {
   line-height: 1;
 }
 
+.fa .fa-4x .fa-hand-peace-o{
+   color: blue;
+}
 table {
   width: 100%;
   border: 4px double;
@@ -704,7 +707,7 @@ a.alignright {
 }
 
 #intro .bg {
-  background-image: url("../images/photo.jpg");
+  background-image: url("../images/header-bg.jpg");
 }
 
 #intro #particles {
