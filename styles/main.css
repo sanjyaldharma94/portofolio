@@ -718,7 +718,7 @@ a.alignright {
 }
 
 #contacts .bg {
-  background-image: url("../images/footer-bg.jpg");
+  background-image: url("../images/footer.jpg");
 }
 
 .widget h3 {
@@ -1806,6 +1806,7 @@ html[style*='margin-right'] .main-nav {
 }
 
 .works .works-item:hover .works-item-link .works-item-thumb {
+  /*background-attachment:url(../images/hire.jpg);*/
   -webkit-transform: rotateY(180deg);
           transform: rotateY(180deg);
 }
