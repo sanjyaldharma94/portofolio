@@ -56,15 +56,15 @@ h3 a {
 }
 
 h4 {
-  color: blue;
+  color: #4c4c34;
   margin: 0 0 10px;
   font-size: 24px;
   font-weight: 800;
   font-style: italic;
   letter-spacing: 2px;
   text-transform: uppercase;
-  border: 1px solid;
-  border-radius: 20%;
+  /*border: 1px solid;
+  border-radius: 20%;*/
 }
 
 p,
