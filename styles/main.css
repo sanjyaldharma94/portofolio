@@ -34,6 +34,7 @@ h1 b {
 }
 
 h2 {
+
   margin: 0 0 30px;
   font: 4.28571em / 1.2 loveloline_bold;
   letter-spacing: 10px;
@@ -1402,6 +1403,15 @@ html[style*='margin-right'] .main-nav {
 .intro .fa {
   margin: 0 0 30px;
   color: #FB544D;
+}
+.intro .name,.fn{
+  font-size: 42px;
+}
+.intro .animated-letters{
+  color: tomato;
+}
+.intro .is-visible{
+  color: blue;
 }
 
 .posts {
