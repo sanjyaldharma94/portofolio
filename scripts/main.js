@@ -1,3 +1,8 @@
+var overLay = document.getElementById('overlay');
+
+window.addEventListener('load', function(){
+	overLay.style.display = 'none';
+});
 (function($) {
 
 	'use strict';
