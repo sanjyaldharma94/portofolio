@@ -92,7 +92,7 @@ h3 a {
 h4 {
   color: #4c4c34;
   margin: 0 0 10px;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 800;
   font-style: italic;
   letter-spacing: 2px;
@@ -236,9 +236,6 @@ sup {
   line-height: 1;
 }
 
-.fa .fa-4x .fa-hand-peace-o{
-   color: blue;
-}
 table {
   width: 100%;
   border: 4px double;
@@ -1444,7 +1441,7 @@ html[style*='margin-right'] .main-nav {
   color: tomato;
 }
 .intro .is-visible{
-  color: blue;
+  color: #326db5;
 }
 
 .posts {
