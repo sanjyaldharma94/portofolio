@@ -13,6 +13,7 @@ body {
   font: 87.5%/1 Roboto Mono, serif;
   -webkit-tap-highlight-color: transparent;
 }
+/*adding preloader*/
 #spinner{
   width:80px;
   height:80px;
