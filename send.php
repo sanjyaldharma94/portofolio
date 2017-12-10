@@ -17,7 +17,7 @@
 
 		$recipient = "rajsan44@gmail.com"; // this is my address for receiving emails
 
-		$subject = "contact Info";
+		$subject = "mail From Your site";
 
 		$email_content = "Name: $name\n";
 		$email_content .= "Email: $email\n\n";

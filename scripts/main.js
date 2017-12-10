@@ -40,7 +40,7 @@ window.addEventListener('load', function(){
 			ctx = canvas.getContext('2d');
 
 			circles = [];
-			for(var x = 0; x < width * 0.3; x++) {
+			for(var x = 0; x < width * 0.4; x++) {
 				var c = new Circle();
 				circles.push(c);
 			}
