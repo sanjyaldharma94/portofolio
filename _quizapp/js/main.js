@@ -3,7 +3,7 @@ var questions = [
 {
   question: "In which states is Harvard University?",
   choices:["Massachusetts", "NewYork", "NewJersey", "California"],
-  answer: "Massachusetts" 
+  answer: "Massachusetts"
 },
 {
   question: "Which ocean is off the Californian coast?",
@@ -167,7 +167,7 @@ function submitAnswer() {
       // if the user is correct and more questions exist, move to the next question
       setTimeout(function(){
         createQuestion();
-      }, 2000);
+      }, 1000);
 
       // stop the function, user got it correect
       return;
